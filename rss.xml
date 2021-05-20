@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 20 May 2021 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 05:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  哔哩哔哩港股午后涨幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3597504.d.html</link>
+            <guid>2179264</guid>
+            <pubDate>Thu, 20 May 2021 05:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果对决Epic：库克或本周出庭作证100分钟】苹果本周将在法庭上就热门视频游戏《堡垒之夜》开发商EpicGames的反垄断指控进行辩护，并准备请来CEO蒂姆·库克出庭作证。据知情人士说，库克始终在为审判做准备，包括由他的法律团队挑选的前检察官进行数小时的模拟庭审练习。预计库克将寻求支持苹果的论点，即苹果并不是垄断企业，因为这起案件可能会瓦解苹果对应用商店的控制。应用商店是苹果服务业务的关键组成部分，去年创造了近540亿美元的收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3596850.d.html</link>
+            <guid>2179263</guid>
+            <pubDate>Thu, 20 May 2021 05:39:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【安道麦Ａ：在以色列的运营和研发设施运营正常 销售业务未受明显影响】安道麦Ａ在互动平台表示，公司在以色列拥有两个生产基地、一个全球研发中心，并在以色列国内市场拥有销售业务（占公司全球销售业务约2%）。目前，公司在以色列的运营和研发设施运营正常，销售业务未受明显影响。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6458228.d.html</link>
@@ -365,18 +377,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3561025.d.html</link>
             <guid>2179155</guid>
             <pubDate>Thu, 20 May 2021 02:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  充电桩概念股异动，奥特迅拉升封板，科大智能涨、英飞特涨超12%，英飞特、特锐德、和顺电气、中能电气、动力源等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3560641.d.html</link>
-            <guid>2179154</guid>
-            <pubDate>Thu, 20 May 2021 02:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中石化专家预计到2025年国内PDH总产能将超过3000万吨以上】5月20日，中国石化炼油销售有限公司营销负责人郑成栋表示，未来5年国内原油加工量将处于逐年增加态势，作为炼油副产品，液化气产量将保持增长态势，特别是受PDH(丙烷脱氢)及乙烯裂解装置投产带动，对液化石油气需求量将有显著提升。2021年国内PDH装置预计将有427万吨的新增产能，预计2025年，PDH理论新增产能将超过2300万吨，届时国内PDH总产能将超过3000万吨以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3560370.d.html</link>
-            <guid>2179153</guid>
-            <pubDate>Thu, 20 May 2021 02:54:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
