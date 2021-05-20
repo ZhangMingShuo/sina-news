@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://zhangmingshuo.github.io/sina-news/",
   "dependencies": {
     "abort-controller": "^3.0.0",
     "feed": "^4.2.1",
