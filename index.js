@@ -15,12 +15,12 @@ const timeout = setTimeout(
 const feed = new Feed({
   title: '新浪新闻',
   description: '新浪全球实时财经新闻直播',
-  link: 'https://ruanyf.github.io/sina-news/',
+  link: 'https://zhangmingshuo.github.io/sina-news/',
   language: 'zh-CN',
   generator: 'sina news feed generator',
   feedLinks: {
-    json: 'https://ruanyf.github.io/sina-news/rss.json',
-    rss: 'https://ruanyf.github.io/sina-news/rss.xml'
+    json: 'https://zhangmingshuo.github.io/sina-news/rss.json',
+    rss: 'https://zhangmingshuo.github.io/sina-news/rss.xml'
   },
 });
 
