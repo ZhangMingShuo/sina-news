@@ -96,16 +96,16 @@ async function main() {
     console.log(`successfully generating new feed.`);
 
     await fs.rmdir('./dist', { recursive: true });
-    console.log(`successfully deleted ./dist`);
+    console.log(`successfully deleted ./dist folder`);
 
     await fs.mkdir('./dist');
-    console.log(`successfully create ./dist`);
+    console.log(`successfully generate ./dist folder`);
 
     await fs.writeFile('./dist/rss.json', feed.json1());
-    console.log(`successfully write rss.json`);
+    console.log(`successfully generate rss.json`);
 
     await fs.writeFile('./dist/rss.xml', feed.rss2());
-    console.log(`successfully write rss.xml`);
+    console.log(`successfully generate rss.xml`);
 
     await fs.copyFile('./template/index.html', `./dist/index.html`);
     await fs.copyFile('./template/page.js', `./dist/page.js`);
