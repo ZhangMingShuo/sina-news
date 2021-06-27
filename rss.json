@@ -6,6 +6,34 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2221948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2227452.d.html",
+            "title": "  南非总统拉马福萨：将在6月30日起关闭所有学校。",
+            "date_modified": "2021-06-27T20:10:36.000Z"
+        },
+        {
+            "id": 2221947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3625742.d.html",
+            "title": "雷诺将购买中国远景集团生产的电动车电池，远景集团将为雷诺建立价值24亿美元的电池工厂。",
+            "date_modified": "2021-06-27T20:03:33.000Z"
+        },
+        {
+            "id": 2221945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3624798.d.html",
+            "title": "交易平台币安（Binance）：集团在2020年5月收购了BML，但并未推出在英国的业务，也并不适用于FCA的监管许可。",
+            "date_modified": "2021-06-27T19:37:08.000Z"
+        },
+        {
+            "id": 2221944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2225762.d.html",
+            "title": "交易平台币安（Binance）：英国金融行为监管局（FCA）的通知对币安提供的服务未产生直接影响。",
+            "date_modified": "2021-06-27T19:24:25.000Z"
+        },
+        {
             "id": 2221943,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-28/detail-ikqciyzk2225085.d.html",
