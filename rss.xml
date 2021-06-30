@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 30 Jun 2021 17:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 18:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登仍将支持未纳入基础设施计划的项目，包括电动汽车退税和清洁能源税收抵免等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2856297.d.html</link>
+            <guid>2225228</guid>
+            <pubDate>Wed, 30 Jun 2021 18:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX：由于天气原因，今天的小型卫星共乘计划任务将于美东时间下午3点11分（北京时间凌晨3:11）进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855923.d.html</link>
+            <guid>2225226</guid>
+            <pubDate>Wed, 30 Jun 2021 18:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收涨0.5%，报1771.60美元/盎司，6月份乃至2021年上半年都整体下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4255966.d.html</link>
+            <guid>2225225</guid>
+            <pubDate>Wed, 30 Jun 2021 18:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国方面表示接受钢铁贸易救济机构的建议，将制定新的法规来保护钢铁行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855243.d.html</link>
+            <guid>2225224</guid>
+            <pubDate>Wed, 30 Jun 2021 17:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国金融时报：金融服务业将被排除在全球税收之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855121.d.html</link>
+            <guid>2225223</guid>
+            <pubDate>Wed, 30 Jun 2021 17:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴涨幅收窄至10%，此前一度涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2854511.d.html</link>
+            <guid>2225221</guid>
+            <pubDate>Wed, 30 Jun 2021 17:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：今年9月，土耳其将从国内市场借入457亿里拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4253722.d.html</link>
+            <guid>2225218</guid>
+            <pubDate>Wed, 30 Jun 2021 17:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【滴滴开盘不到40分钟成交额超20亿美元】滴滴纽交所上市首日，开盘不到40分钟成交额超20亿美元，现涨幅14.5%，报16.02美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2853401.d.html</link>
+            <guid>2225216</guid>
+            <pubDate>Wed, 30 Jun 2021 17:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：土耳其自7月1日起将电价上调15％。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4253331.d.html</link>
@@ -233,66 +281,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4240307.d.html</link>
             <guid>2225131</guid>
             <pubDate>Wed, 30 Jun 2021 14:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻联合国副特使：最近几轮维也纳会谈“帮助明确了”伊朗和美国在重返核协议上所需要做出的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4239430.d.html</link>
-            <guid>2225126</guid>
-            <pubDate>Wed, 30 Jun 2021 14:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：上周美国原油制品供应量升至2020年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2839110.d.html</link>
-            <guid>2225125</guid>
-            <pubDate>Wed, 30 Jun 2021 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood没有合理地监督经纪商和交易商相关的技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2839060.d.html</link>
-            <guid>2225124</guid>
-            <pubDate>Wed, 30 Jun 2021 14:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：苹果将于7月27日公布第三季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838967.d.html</link>
-            <guid>2225123</guid>
-            <pubDate>Wed, 30 Jun 2021 14:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国中西部炼油厂利用率在上周升至2019年9月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838825.d.html</link>
-            <guid>2225122</guid>
-            <pubDate>Wed, 30 Jun 2021 14:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood向用户传达了虚假的误导性信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838791.d.html</link>
-            <guid>2225121</guid>
-            <pubDate>Wed, 30 Jun 2021 14:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滴滴今晚在纽交所挂牌上市：每股定价14美元 至少募资44亿美元】滴滴今晚正式在纽交所挂牌上市，股票代码为 "DIDI"。高盛、摩根士丹利、摩根大通、华兴资本担任承销商。据悉，滴滴本次IPO的承销商名单中还有多家中资机构，包括中金、中银国际、交银国际、建银国际、招银国际、工银国际和国泰君安国际等。本次IPO中，滴滴发行价定为14美元，位于13-14美元/ ADS的发行区间上限。滴滴发行3.17亿股ADS，比原计划的2.88亿股多10%。以14美元的发行价计算，滴滴此次至少募资44亿美元，其IPO的估值超670亿美元。另据知情人士透露，滴滴完全稀释后的估值（通常包括限制性股票单位）或超700亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838741.d.html</link>
-            <guid>2225120</guid>
-            <pubDate>Wed, 30 Jun 2021 14:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood没有上报客户的书面投诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4238742.d.html</link>
-            <guid>2225119</guid>
-            <pubDate>Wed, 30 Jun 2021 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国库欣原油库存在上周跌至2020年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4238419.d.html</link>
-            <guid>2225116</guid>
-            <pubDate>Wed, 30 Jun 2021 14:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国中西部石油库存降至2020年2月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4238364.d.html</link>
-            <guid>2225115</guid>
-            <pubDate>Wed, 30 Jun 2021 14:34:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
