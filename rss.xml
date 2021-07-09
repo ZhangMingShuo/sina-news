@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Jul 2021 19:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 20:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，美元投机性净空头押注降至83亿美元，创4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572899.d.html</link>
+            <guid>2235142</guid>
+            <pubDate>Fri, 09 Jul 2021 19:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX铜期货投机性净多头头寸增加4930手至32506手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970620.d.html</link>
+            <guid>2235141</guid>
+            <pubDate>Fri, 09 Jul 2021 19:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，投机者将CBOT美国10年期国债期货合约净空头头寸减少34367手至25593手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970577.d.html</link>
+            <guid>2235140</guid>
+            <pubDate>Fri, 09 Jul 2021 19:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX白银期货投机性净多头头寸增加2416手至35557手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970501.d.html</link>
+            <guid>2235138</guid>
+            <pubDate>Fri, 09 Jul 2021 19:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小牛电动尾盘涨幅扩大至10%，最高报33.32美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970357.d.html</link>
+            <guid>2235136</guid>
+            <pubDate>Fri, 09 Jul 2021 19:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会主席Lina Khan：当前的企业合并指引需要“重点审核”。]]></title>
+            <guid>2235135</guid>
+            <pubDate>Fri, 09 Jul 2021 19:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登签署行政命令以促进美国各行业竞争】美国总统拜登当地时间7月9日签署了一项行政命令，以促进该美国各行业的竞争。这项法案针对科技、医疗和其他领域的反竞争做法提出了指导和限制措施，同时意在提高工人收入，为消费者提供保护。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4571869.d.html</link>
+            <guid>2235133</guid>
+            <pubDate>Fri, 09 Jul 2021 19:17:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西经济部长盖德斯：我们不会增税。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570857.d.html</link>
@@ -258,12 +299,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4553342.d.html</link>
             <guid>2235046</guid>
             <pubDate>Fri, 09 Jul 2021 15:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概在线教育板块拉升，好未来、掌门教育均涨超12%，高途涨6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5950181.d.html</link>
-            <guid>2235031</guid>
-            <pubDate>Fri, 09 Jul 2021 15:03:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
