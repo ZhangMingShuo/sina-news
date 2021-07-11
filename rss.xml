@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Jul 2021 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 05:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【《2021新华·波罗的海国际航运中心发展指数报告》发布】《2021新华·波罗的海国际航运中心发展指数报告》发布。报告显示，上海再度排名第三，仅次于新加坡和伦敦。香港、迪拜分列第四、五位。过去一年，得益于航运资源与配置能力的优势积累，国际航运中心城市头部三强格局稳固。新加坡连续8年夺冠，伦敦在高端航运服务方面优势依旧，稳居第二。上海在航运硬件和软件建设上持续发力，通过枢纽建设与服务业发展"双轮"驱动，借助自贸试验区发展、科技创新赋能、长三角协同发展等机制，持续提升全球资源配置能力，综合排名紧追冠亚军，保持第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4807865.d.html</link>
+            <guid>2235542</guid>
+            <pubDate>Sun, 11 Jul 2021 05:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本内阁官房长官加藤胜信：日本政府已准备灵活部署经济刺激措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4806839.d.html</link>
+            <guid>2235541</guid>
+            <pubDate>Sun, 11 Jul 2021 05:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国上半年造船接单量创近13年同期新高】据韩国产业通商资源部11日消息，韩国造船业今年上半年承揽全球订单总量（2452万修正总吨，CGT）的44%，为1088万CGT，同比剧增24%，较疫前的2019年上半年增长183%，创下近13年来的上半年最高纪录。全球高附加值船舶订单总量为1189万CGT，韩国拿下其中61%（723万CGT），带动整体业绩增长。该订单量占韩国造船厂订单总量的66%。 (韩联社)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6202695.d.html</link>
+            <guid>2235539</guid>
+            <pubDate>Sun, 11 Jul 2021 04:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳市将启动试点小学生暑期托管服务】据深圳市教育局网站消息，暑假临近，为满足广大家长需求、解决学生暑期“看护难”问题，深圳市决定开展小学生暑期托管服务试点工作。《深圳市教育局关于做好小学生暑期托管服务工作的通知》已于日前发布。全市10个区（不含深汕特别合作区）优选有条件的学校（也可以协同其他部门优选社区或其他机构），试点开展小学生暑期托管服务工作。具体开放学校数量和布点，由各区结合实际情况确定。服务时段原则上从7月19日到8月20日(不含周六、日)，分为2期。每期具体起始时间由各试点学校结合实际安排。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6199926.d.html</link>
+            <guid>2235535</guid>
+            <pubDate>Sun, 11 Jul 2021 04:33:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国特使访问卡塔尔 斡旋阿富汗政府与塔利班内部和谈】当地时间7月10日晚间，美国政府阿富汗和解事务特别代表扎勒梅·哈利勒扎德抵达卡塔尔首都多哈。他此行主要目的是推动阿富汗政府与反政府武装塔利班在多哈进行的和谈。阿富汗政府和塔利班自2020年9月起在多哈展开和平谈判，但因分歧众多，谈判进展缓慢。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6194026.d.html</link>
@@ -254,30 +278,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6117889.d.html</link>
             <guid>2235436</guid>
             <pubDate>Sat, 10 Jul 2021 16:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：在G20会议间隙举行了多场双边会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6116809.d.html</link>
-            <guid>2235429</guid>
-            <pubDate>Sat, 10 Jul 2021 16:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：G20税收协议是历史性的，G20会议取得了许多具体的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4719274.d.html</link>
-            <guid>2235428</guid>
-            <pubDate>Sat, 10 Jul 2021 16:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：全球经济前景仍面临许多风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6116250.d.html</link>
-            <guid>2235426</guid>
-            <pubDate>Sat, 10 Jul 2021 16:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：G20会议讨论了全球经济、税收和气候问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6116245.d.html</link>
-            <guid>2235425</guid>
-            <pubDate>Sat, 10 Jul 2021 16:13:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
