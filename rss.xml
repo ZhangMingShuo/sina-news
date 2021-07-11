@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Jul 2021 02:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 03:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【河北省副省长张国华调研启动区项目建设】日前，河北省委常委、副省长，雄安新区党工委书记、管委会主任张国华调研启动区项目建设情况。他强调，启动区作为雄安新区率先建设的重点区域，承担着首批北京非首都功能疏解项目落地、新区城市雏形展现的重任，要加快推进片区和重点项目建设，创造“雄安质量”，努力把启动区打造成承接北京非首都功能疏解的高质量样板。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4789007.d.html</link>
+            <guid>2235519</guid>
+            <pubDate>Sun, 11 Jul 2021 03:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LG暂停与苹果谈判 将不会在实体店出售iPhone】一份最新的报告显示，LG暂停了与苹果公司关于在韩国地区LG实体店出售iPhone的计划。LG于今年6月份宣布正式退出智能手机业务，随后便考虑与苹果公司进行谈判，然而这遭遇了强烈的反对。 LG此举引发了中小经销商以及部分消费者的反对。LG目前仅表示“暂停”谈判，具体的恢复时间还未知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4786095.d.html</link>
+            <guid>2235516</guid>
+            <pubDate>Sun, 11 Jul 2021 03:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽：同意子公司与华为项目实施 2023底量产SUV】日前，广汽集团发布公告，经董事会审议通过，同意全资子公司广汽埃安新能源汽车有限公司与华为(AH8车型)项目的实施。项目为双方联合开发的首款中大型智能纯电SUV车型，项目总投资7.88亿元，计划于2023年底量产。（快科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6181413.d.html</link>
+            <guid>2235515</guid>
+            <pubDate>Sun, 11 Jul 2021 02:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防部官员：美军在叙利亚驻扎地区受“间接火力袭击”，无人员伤亡】据美国有线电视新闻网（CNN）报道，美国国防部官员当地时间10日称，有美军驻扎的叙利亚东部地区附近受到了“间接火力袭击”，目前没有人员伤亡报告。 “我可以证实，库努库地区受到了间接火力袭击。目前的初始报告尚未发现人员伤亡或（建筑）结构损伤。”这名官员说道。报道提到，库努库地区拥有油田，并有美军部署在此。 当地时间6月27日，美国国防部称拜登下令美军空袭了伊拉克和叙利亚的边境地区，并声称目标设施被“伊朗支持的民兵”所利用并向美方人员发起“无人机袭击”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4781875.d.html</link>
+            <guid>2235514</guid>
+            <pubDate>Sun, 11 Jul 2021 02:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿拉伯商业新闻：沙特将从7月10日起设置汽油价格上限，以支持当地经济并减轻消费者压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4779575.d.html</link>
+            <guid>2235513</guid>
+            <pubDate>Sun, 11 Jul 2021 02:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川巴中强降雨致110乡镇受灾】从四川巴中市应急管理局获悉，本轮强降雨已致该市110个乡镇受灾，215613人受灾，紧急转移安置21730人，直接经济损失人民币35225.59万元，暂未接到人员伤亡报告。10日，巴中出现船只被冲走、桥梁被冲垮的情况。目前，巴中已启动III级防汛应急响应。 (中新网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4778813.d.html</link>
+            <guid>2235511</guid>
+            <pubDate>Sun, 11 Jul 2021 02:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极端高温袭来！美国西部多州周末将面临新热浪 超3000万人受影响】在刚刚过去的六月份，美国西部的华盛顿州、俄勒冈州等多个地区一直面临着极端高温天气，美国西部多州本周末又将迎来新的热浪。美国国家气象局数据显示，有超过3000万人处于高温预警之下。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6173300.d.html</link>
+            <guid>2235509</guid>
+            <pubDate>Sun, 11 Jul 2021 02:10:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[习近平同朝鲜最高领导人金正恩就《中朝友好合作互助条约》签订60周年互致贺电。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6172175.d.html</link>
@@ -248,24 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6114535.d.html</link>
             <guid>2235415</guid>
             <pubDate>Sat, 10 Jul 2021 15:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20公报：G20支持经合组织所达成的全球税收协议，敦促在10月之前完成协议，解决剩余问题，并邀请其他国家加入协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6114422.d.html</link>
-            <guid>2235413</guid>
-            <pubDate>Sat, 10 Jul 2021 15:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20经济部长们在维也纳会议后发表公报，表示支持全球税收协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4716795.d.html</link>
-            <guid>2235411</guid>
-            <pubDate>Sat, 10 Jul 2021 15:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特媒体：沙特当局将设定国内汽油价格上限，7月10日起当地汽油价格不超过6月的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6112862.d.html</link>
-            <guid>2235406</guid>
-            <pubDate>Sat, 10 Jul 2021 15:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
