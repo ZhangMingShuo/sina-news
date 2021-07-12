@@ -4,11 +4,227 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 12 Jul 2021 21:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 23:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[瑞信：将当升科技评级上调至中性，目标价80元。]]></title>
+            <guid>2237004</guid>
+            <pubDate>Mon, 12 Jul 2021 23:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【险资对“双创”板块热情大增 二季度调研频次环比增长70%】险资对“双创”板块的调研热情大幅升温。今年二季度险资加大了对“双创”板块的调研力度，调研个股频次达751次，环比增长70%。当然，调研不等于投资。记者综合不同险资机构的观点来看，险资普遍看好科技（芯片、软件等）、医药（医疗器械、医药服务等）、新能源（锂电池、光伏等）等新兴产业公司扎堆的创业板与科创板投资机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5111825.d.html</link>
+            <guid>2237003</guid>
+            <pubDate>Mon, 12 Jul 2021 23:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苏州一酒店辅房坍塌事故已救出被困人员14人】截至7月13日6:30，消防人员已从现场救出14名被困人员。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6506471.d.html</link>
+            <guid>2237000</guid>
+            <pubDate>Mon, 12 Jul 2021 23:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方电气集团与中国石化集团签订战略合作框架协议】昨日，中国东方电气集团有限公司与中国石油化工集团有限公司在京签订战略合作框架协议。双方将在高效清洁能源、可再生能源、新材料、化工装备、设备润滑及相关产业领域进一步扩大合作范围，创新合作模式，实现经济效益和社会效益最大化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6506388.d.html</link>
+            <guid>2236999</guid>
+            <pubDate>Mon, 12 Jul 2021 23:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津：全力服务北京非首都功能疏解和雄安新区建设】12日，市委、市政府推进京津冀协同发展领导小组召开会议。会议指出，坚决服从京津冀协同发展大局，坚决落实党中央各项决策部署，充分发挥政策、产业、港口、交通、生态等优势，尽好天津责任，全力服务北京非首都功能疏解和雄安新区建设，在推动协同发展中实现自身高质量发展。加快北方国际航运枢纽建设，完善港口服务功能，打造世界一流智慧港口、绿色港口，推进一体化交通基础设施建设，构建“轨道上的京津冀”。（天津日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5110430.d.html</link>
+            <guid>2236998</guid>
+            <pubDate>Mon, 12 Jul 2021 23:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行揽储休战】与以往形成鲜明对比的是，大中型银行客户经理开始秉承“佛系”销售模式，不再用“高息”等字眼吸引客户，而地方性城商行、农商行揽储的意愿则颇为纠结，多位地方性银行相关人士在接受记者采访时直呼：“不是不想揽储，而是异地展业、互联网渠道受阻后，小银行揽储太难做！”（北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5109831.d.html</link>
+            <guid>2236997</guid>
+            <pubDate>Mon, 12 Jul 2021 23:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国零售商协会：第二季度总体零售销售额同比增长28.4%，是1995年以来最大的同比增幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6505000.d.html</link>
+            <guid>2236995</guid>
+            <pubDate>Mon, 12 Jul 2021 23:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国零售商协会：由于温暖的天气和体育赛事，酒吧消费出现自2020年9月以来最大增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6504703.d.html</link>
+            <guid>2236994</guid>
+            <pubDate>Mon, 12 Jul 2021 23:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【密云平谷解除暴雨红色预警】昨夜今晨，北京密云区、平谷区先后解除暴雨红色预警。(北京市气象局)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5108081.d.html</link>
+            <guid>2236991</guid>
+            <pubDate>Mon, 12 Jul 2021 22:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海运成本上升 国际粮价下半年料高位震荡】国际粮食运输成本已较去年同期翻倍。以大豆为例，据新纪元期货统计数据，截至7月9日，进口美国大豆的国际运费为81美元/吨，创国际金融危机以来新高，较去年同期增长108%。分析人士认为，去年8月以来，粮价开启上涨行情，海运费上涨起到一定支撑作用，但不是影响粮价的关键因素。在其他利多因素弱化背景下，国际粮价下半年或将高位震荡。]]></title>
+            <guid>2236990</guid>
+            <pubDate>Mon, 12 Jul 2021 22:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：需积极利用区块链等手段缓解银行和中小微企业之间的信息不对称】7月13日，经济日报刊文“提升中小微企业金融服务能力”。文章表示，与中小微企业的重要作用及金融服务需求相比，金融服务还存在提升空间，需要着力提升中小微企业金融服务能力。需要积极利用大数据、云计算、区块链等金融科技手段，缓解银行和中小微企业之间的信息不对称，完善线上金融服务渠道，通过线上线下立体式服务渠道，提高中小微企业金融服务的可得性和便利度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6503608.d.html</link>
+            <guid>2236989</guid>
+            <pubDate>Mon, 12 Jul 2021 22:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪农商行A股IPO预计募集资金85.8亿元人民币】据交易所公告，沪农商行确定首次公开发行A股的发行价格为8.9元人民币/股，IPO预计募集资金85.8亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6503530.d.html</link>
+            <guid>2236987</guid>
+            <pubDate>Mon, 12 Jul 2021 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出口增速渐归常态 稳外贸需抢占先机】去年下半年以来，出口为我国经济增长提供了强劲动力，其增长可持续性受到市场广泛关注。专家认为，在高基数效应、全球供需缺口收窄等挑战下，下半年我国出口增速将有所回落。稳外贸需加紧谋划未来、抢占先机，加紧开拓新兴市场、筹划调整产业链布局等。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6502408.d.html</link>
+            <guid>2236982</guid>
+            <pubDate>Mon, 12 Jul 2021 22:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟再次延长对俄罗斯的经济制裁】欧盟理事会12日宣布，将对俄罗斯的经济制裁延长6个月到明年1月31日，理由是俄罗斯未能充分执行明斯克协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6502134.d.html</link>
+            <guid>2236981</guid>
+            <pubDate>Mon, 12 Jul 2021 22:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：淡水河谷(VALE.N)将于7月19日发布第二季度产出报告，7月28日公布业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6501771.d.html</link>
+            <guid>2236979</guid>
+            <pubDate>Mon, 12 Jul 2021 22:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新能源产业方兴未艾 约70家公司拟定增募资逾千亿扩产】面对新能源产业爆发式发展的黄金机遇，上市公司纷纷大手笔募资，积极扩充产能。最新统计，今年二季度至今，已有超过230家公司发布定增预案（仅统计发行股份募资），其中约70家公司的募投项目瞄准新能源领域，计划募资额合计超千亿元。抢搭新能源快车的还有上市公司大股东和不少知名机构，有些公司的定增甚至是由大股东一手包揽。在业内人士看来，新能源热度还将持续，融资扩产将成为常态。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5105427.d.html</link>
+            <guid>2236977</guid>
+            <pubDate>Mon, 12 Jul 2021 22:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【通密线S611次列车临时停运】受降雨影响，为确保旅客列车运行安全，今日（7月13日），通密线S611次（通州西-怀柔北）列车临时停运。(北京市郊铁路)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6500807.d.html</link>
+            <guid>2236974</guid>
+            <pubDate>Mon, 12 Jul 2021 22:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高频度调研 机构关注网安行业核心竞争力】昨日，多只网络安全概念股爆发，多只网络安全概念股的背后都有知名投资人的身影，葛卫东重仓了奇安信，天融信长期是傅鹏博的“心头好”，冯柳此前参与了深信服的定增。 7月7日至7月9日短短3天，奇安信吸引多家机构调研。从投资者调研报告来看，机构较为关注网络安全行业发展情况及其在行业内的布局和核心竞争力。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5105207.d.html</link>
+            <guid>2236973</guid>
+            <pubDate>Mon, 12 Jul 2021 22:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康方生物(09926.HK)：本公司自主研发的肿瘤免疫治疗新药二代CD47单克隆抗体（研发代号：AK117）已完成澳洲一期剂量爬坡试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5105115.d.html</link>
+            <guid>2236971</guid>
+            <pubDate>Mon, 12 Jul 2021 22:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  药明康德(02359.HK)：根据股份期权计划行使期权(发行人的董事行使除外)，于2021年7月12日发行13.405万股A股，每股发行价人民币38.62元，较上一个营业日的每股收市价人民币150.78元折让74.39%。]]></title>
+            <guid>2236970</guid>
+            <pubDate>Mon, 12 Jul 2021 22:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  药明康德(02359.HK)：2021年7月12日，根据3亿美元于2024年到期的零息可转换债券而转换及发行139.879万股港股，每股发行价66.17港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5104422.d.html</link>
+            <guid>2236969</guid>
+            <pubDate>Mon, 12 Jul 2021 22:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳楼市拐点效应彰显 多城开启二手房参考价时代】今年以来，深圳、上海、西安、成都、三亚、东莞等城市陆续推出参考价，控制虚高挂牌、完善二手住房网签交易价等针对二手房市场的措施。今年上半年深圳全市二手房网签套数30505套（含自助），同比下滑48%。此外，6月深圳二手房过户2575套，环比下跌14%，同比下跌75%。除了成交量大幅下降，记者在深圳罗湖、福田和南山多地调查时发现，主动降价的二手房业主越来越多，愿意按照参考价卖房的业主也越来越多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5104337.d.html</link>
+            <guid>2236968</guid>
+            <pubDate>Mon, 12 Jul 2021 22:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京今天大部地区有阵雨或雷阵雨 北京未来三天多雷阵雨天气】北京市气象台13日6时发布：今天白天阴天间多云，大部地区有阵雨或雷阵雨，南风二三级，最高气温32℃；夜间阴，东北部有雷阵雨转多云，南风二三级，最低气温24℃。未来三天多雷阵雨天气，局地短时雨强较大，外出雨具随身，注意防雷避雨和出行安全；同时气温较高，湿度较大，体感闷热，注意防暑。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6499868.d.html</link>
+            <guid>2236967</guid>
+            <pubDate>Mon, 12 Jul 2021 22:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本首相菅义伟和国际奥委会主席巴赫计划在周三会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5103862.d.html</link>
+            <guid>2236963</guid>
+            <pubDate>Mon, 12 Jul 2021 22:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“果链”龙头领益智造业绩爆雷 单日蒸发64亿元市值】昨日，苹果供应链龙头企业领益智造开盘不久即跌停，当日市值蒸发64亿元，该公司股价自去年底阶段性高点跌幅超过40%，市值蒸发超400亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6498851.d.html</link>
+            <guid>2236960</guid>
+            <pubDate>Mon, 12 Jul 2021 22:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【降准后流动性将保持基本稳定】过去一周（7月6日至12日），中国人民银行继续在每个交易日开展100亿元的逆回购操作，期限7天，中标利率维持在2.20%不变。尽管7月9日，人民银行宣布下调金融机构存款准备金率0.5个百分点的全面降准略超市场预期，但专家分析认为，本次全面降准依然属于货币政策回归常态后的常规流动性操作，稳健货币政策取向没有发生改变。资金面来看，7月12日上海银行间同业拆放利率(Shibor)几乎全线下行，仅2周期品种小幅上涨4.40个基点。具体来看，隔夜品种报1.9400%，下行26.60个基点；1周期品种报2.1630%，下行5.70个基点；1个月品种报2.3390%，下行1.20个基点。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6498749.d.html</link>
+            <guid>2236958</guid>
+            <pubDate>Mon, 12 Jul 2021 22:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：松下暂停太阳能电池板设备生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5102673.d.html</link>
+            <guid>2236954</guid>
+            <pubDate>Mon, 12 Jul 2021 22:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【马斯克主动请缨坐上证人席 为特斯拉收购SolarCity展开辩护】当地时间周一，特斯拉CEO马斯克出庭为公司2016年收购太阳能发电公司SolarCity的决定展开辩护，若最终败诉这名前世界首富将面临最高26亿美元的赔偿诉求。由于这一案件属于股东代表诉讼（Derivative suit），即便原告胜诉，马斯克所支付的赔偿金也将直接交给特斯拉公司。这起案件原本的被告为马斯克与多名特斯拉董事会成员，但除了马斯克坚持要上法庭以外，其余多名董事已经于去年末达成了6000万美元的和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6497701.d.html</link>
+            <guid>2236944</guid>
+            <pubDate>Mon, 12 Jul 2021 21:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据道琼斯：沃尔沃卡车计划在弗吉尼亚工厂恢复生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5102083.d.html</link>
+            <guid>2236942</guid>
+            <pubDate>Mon, 12 Jul 2021 21:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：维珍银河(SPCE.N)创始人布兰森入股英国知名太空科技风投机构瑟拉菲姆资本（Seraphim Capital）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6497619.d.html</link>
+            <guid>2236940</guid>
+            <pubDate>Mon, 12 Jul 2021 21:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：苹果(AAPL.O)与著名电影制片人Alexander Rodnyansky领导的AR内容制作公司签署了一份协议，将为Apple TV+提供一系列俄语和多语言节目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6497594.d.html</link>
+            <guid>2236939</guid>
+            <pubDate>Mon, 12 Jul 2021 21:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国碳市场上线在即，多条主线受机构关注】全国碳排放权交易市场即将正式上线。按照全国碳市场的规划，待电力行业交易成熟后，更多的行业将被纳入碳排放权交易市场。其中，钢铁行业将在“十四五”期间尽早纳入碳排放权交易市场。此外，石化、化工、建材、有色、造纸、电力、航空等重点排放行业也有望在“十四五”期间陆续纳入全国碳市场。据国金证券统计，待重点行业全部纳入碳市场后，覆盖的年碳排放总量预计在80亿吨左右，约占全国碳排放量的70%-80%。（经参）]]></title>
+            <guid>2236933</guid>
+            <pubDate>Mon, 12 Jul 2021 21:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国西部多地山火肆虐 烧毁跨州电力设施】由于美国西部连日高温干旱，多地出现野火灾害。美国俄勒冈州南部的一场山火已持续七日，过火面积超过6万公顷，并烧毁了连接俄勒冈州和加利福利亚州的电线，导致加州电力出现数千兆瓦的缺口。据报道，这场山火火势凶猛，仅11日其燃烧范围几乎翻倍，目前消防部门对火势的控制率仍为零。]]></title>
+            <guid>2236931</guid>
+            <pubDate>Mon, 12 Jul 2021 21:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员伯尼·桑德斯和美国总统拜登星期一在白宫会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6496526.d.html</link>
+            <guid>2236926</guid>
+            <pubDate>Mon, 12 Jul 2021 21:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员波特曼：达成两党基础设施协议仍需努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5100936.d.html</link>
+            <guid>2236925</guid>
+            <pubDate>Mon, 12 Jul 2021 21:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：正在努力争取所有民主党人支持4000亿美元用于老年人和残疾人家庭护理的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5100894.d.html</link>
+            <guid>2236924</guid>
+            <pubDate>Mon, 12 Jul 2021 21:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)宣布赎回2022年7月27日到期的浮动利率债券。]]></title>
+            <guid>2236921</guid>
+            <pubDate>Mon, 12 Jul 2021 21:21:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国医疗保险和医疗补助服务中心（CMS）开始在全美范围分析渤健（BIIB）阿尔兹海默症药品Aduhelm的治疗过程，预计将在6-9个月之内做决定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5100391.d.html</link>
@@ -55,273 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493720.d.html</link>
             <guid>2236905</guid>
             <pubDate>Mon, 12 Jul 2021 20:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维珍银河(SPCE.N)收跌超17%，创去年12月14日以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493272.d.html</link>
-            <guid>2236898</guid>
-            <pubDate>Mon, 12 Jul 2021 20:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生猪期货上市半年平稳运， 猪企纷纷“试水”】① 近期，大连商品交易所发布生猪期货上市半年以来相关统计数据。数据显示，生猪期货自2021年1月8日在大商所上市以来运行平稳，产业客户参与积极。截至6月末，生猪期货累计成交量156.9万手，成交额达5731.6亿元，日均持仓2.5万手。尤其6月以来，生猪现货价格出现大幅下跌，更多产业客户开始参与套期保值或提高套保规模。数据显示，6月参与生猪期货交易的单位客户数日均超1000名，较5月增幅超60%；② 自生猪期货上市以来，生猪类上市公司也开始纷纷“试水”。温氏股份表示，公司已储备专业的期货人才和团队，研究和跟踪分析生猪期货和现货价格走势，为公司中长期生产和销售提供信息支持。正邦科技也表示，生猪期货套期保值业务理论上能在一定程度平抑生猪价格波动带来的经营风险，其价格发现功能也能较好的指导公司经营，目前公司已筹建了期货团队，形成了期货管理制度、内控制度，并制定了交易模型。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493205.d.html</link>
-            <guid>2236894</guid>
-            <pubDate>Mon, 12 Jul 2021 20:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指初步收涨逾百点，成分股迪士尼涨超4%领跑，高盛涨超2%，摩根大通等涨超1%，但苹果和波音跌约0.4%。半导体和银行指数涨超1%，表现好于三大指数。特斯拉涨超4%。理想汽车涨约3%，但高途教育、叮咚买菜、斗鱼均跌约8%，普普文化跌超17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493174.d.html</link>
-            <guid>2236893</guid>
-            <pubDate>Mon, 12 Jul 2021 20:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金融科技公司Greensky(GSKY.O)：公司与美国金融消费者保护局（CFPB）达成协议并同意支付250万美元的罚款，以解决此前披露的调查。]]></title>
-            <guid>2236891</guid>
-            <pubDate>Mon, 12 Jul 2021 19:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国对德国入境旅游人员警告级别下调至2级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493101.d.html</link>
-            <guid>2236890</guid>
-            <pubDate>Mon, 12 Jul 2021 19:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【传三星与特斯拉达成价值4亿美元的摄像头交易】据韩媒报道，三星已经签署了一项4.36亿美元的巨额协议，向 "美国第一大电动车制造商 "提供摄像头，用于该公司2019年11月发布的一款汽车。报道称，该电动车制造商计划推出一款新型电动车，该车型没有侧后视镜，而是通过车上配备的摄像头让司机观察后方情况，这款电动车有超过8个摄像头，用于自动驾驶。据猜测，三星将为特斯拉(TSLA.O)旗下电动皮卡Cybertruck提供摄像头。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6493076.d.html</link>
-            <guid>2236889</guid>
-            <pubDate>Mon, 12 Jul 2021 19:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greensky(GSKY.O)短线走低，涨幅收窄至2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5096404.d.html</link>
-            <guid>2236888</guid>
-            <pubDate>Mon, 12 Jul 2021 19:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：华特迪士尼(DIS.N)计划提高ESPN+的月度和年度订阅费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5096106.d.html</link>
-            <guid>2236887</guid>
-            <pubDate>Mon, 12 Jul 2021 19:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据JOY FM：加纳将从9月开始试行数字货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491804.d.html</link>
-            <guid>2236886</guid>
-            <pubDate>Mon, 12 Jul 2021 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Warren：敦促司法部门及美国联邦贸易委员会(FTC)就此对亚马逊(AMZN.O)展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491489.d.html</link>
-            <guid>2236885</guid>
-            <pubDate>Mon, 12 Jul 2021 19:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Warren：亚马逊(AMZN.O)似乎在口罩问题上误导了消费者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5095735.d.html</link>
-            <guid>2236884</guid>
-            <pubDate>Mon, 12 Jul 2021 19:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富安达基金完成股权变更 年内第六家】基金公司股权变更再添新案例。近日，证监会正式核准富安达基金管理公司变更股权。公司第二大股东江苏交通控股有限公司（江苏交控）将其持有的富安达基金26%股权转让给江苏云杉资本管理有限公司（江苏云杉资本），而后者的实控人正是江苏交控，此次股权变更属于集团内部股权划转。根据统计，今年以来，已有睿远等6家基金公司完成股权变更；万家等基金公司股东计划转让所持股权；股权激励、外资谋求控股权、原股东意欲退出是变更的主要因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491374.d.html</link>
-            <guid>2236883</guid>
-            <pubDate>Mon, 12 Jul 2021 19:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兴全优选平衡一天大卖超185亿 创FOF募资纪录】昨日，基金发行市场再现爆款。由民生银行托管、销售的兴证全球优选平衡基金中基金（FOF）发售首日募资超过185亿，成为首发募集规模最大的FOF。此外，中欧新趋势的持续营销也获得50亿资金追捧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491337.d.html</link>
-            <guid>2236881</guid>
-            <pubDate>Mon, 12 Jul 2021 19:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钢企上半年业绩出色 包钢股份预增逾23倍】上半年钢铁等大宗商品价格的走高，使大部分钢企赚得盆满钵满。上市公司陆续发布的半年报业绩预告，增幅记录不断被刷新。包钢股份近4个交易日累计涨约26%。7月12日晚间，包钢股份发布了一份大幅增长的半年度业绩预告，预计今年上半年将实现归属于上市公司股东的净利润为20亿元到28亿元，同比增长 2281%到3233%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5095584.d.html</link>
-            <guid>2236880</guid>
-            <pubDate>Mon, 12 Jul 2021 19:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国首任全美网络安全主管Chris Inglis在白宫宣誓就职，其将负责监管联邦政府部门的网络安全策略与预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6491277.d.html</link>
-            <guid>2236878</guid>
-            <pubDate>Mon, 12 Jul 2021 19:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：iCloud邮件的问题已经解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6488999.d.html</link>
-            <guid>2236872</guid>
-            <pubDate>Mon, 12 Jul 2021 18:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会将提议为脆弱和低收入家庭设立一项支持基金，以防其扩大碳定价的计划导致燃油价格上涨。欧盟委员会希望将碳市场新的预期收入的20%投入该基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6488981.d.html</link>
-            <guid>2236871</guid>
-            <pubDate>Mon, 12 Jul 2021 18:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Gemini联合创始人竞得美国职业棒球大联盟首个官方授权的NFT】Gemini加密货币交易所联合创始人Tyler Winklevoss近日在Candy Digital平台上以70400美元竞得美国职业棒球大联盟（MLB）首个官方授权的NFT。据悉，该NFT纪念Lou Gehrig在1939年发表的历史性的“最幸运的人”演讲，拍卖所得将捐给渐冻症的慈善机构，包括 Lou Gehrig信托基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5093033.d.html</link>
-            <guid>2236870</guid>
-            <pubDate>Mon, 12 Jul 2021 18:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：将不会用增加税收的方式来资助新的支出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6488774.d.html</link>
-            <guid>2236869</guid>
-            <pubDate>Mon, 12 Jul 2021 18:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：需要延长退休年龄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5093007.d.html</link>
-            <guid>2236868</guid>
-            <pubDate>Mon, 12 Jul 2021 18:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：充分就业是我们经济复苏的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5092536.d.html</link>
-            <guid>2236866</guid>
-            <pubDate>Mon, 12 Jul 2021 18:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股固态电池板块齐挫，QuantumScapeCorp(QS.N)、Tuscan Holdings(THCB.O)跌约3.5%，Romeo Power(RMO.N)跌4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5092422.d.html</link>
-            <guid>2236865</guid>
-            <pubDate>Mon, 12 Jul 2021 18:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：健康通行证将于8月推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5092320.d.html</link>
-            <guid>2236864</guid>
-            <pubDate>Mon, 12 Jul 2021 18:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 8月黄金期货结算价收跌0.3%，报1805.90美元/盎司，连续四个交易日收于1800美元上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6486478.d.html</link>
-            <guid>2236858</guid>
-            <pubDate>Mon, 12 Jul 2021 17:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）将于7月21日投票决定是否取消先前有关企业合并的政策声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6486461.d.html</link>
-            <guid>2236857</guid>
-            <pubDate>Mon, 12 Jul 2021 17:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长拉夫罗夫与美总统气候问题特使克里会晤】俄罗斯外长拉夫罗夫表示，从发展双边关系、缓解两国紧张局势以及在两国共同关注的领域开展专业合作的角度来看，克里此行是一个重要而积极的信号。这完全符合两国元首6月在日内瓦会晤的主旨。俄罗斯随时准备在开展寻求利益平衡的平等互利对话基础上，尽可能巩固合作。克里表示，相信俄美两国合作仍有进一步合作空间，希望双方的气候问题合作能够开拓新的机遇和更多举措。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6486163.d.html</link>
-            <guid>2236856</guid>
-            <pubDate>Mon, 12 Jul 2021 17:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华特迪士尼(DIS.N)：预计《黑寡妇》周末全球总票房达2.15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5090442.d.html</link>
-            <guid>2236855</guid>
-            <pubDate>Mon, 12 Jul 2021 17:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国碳市场上线在即，多条主线受机构关注】全国碳排放权交易市场即将正式上线。按照全国碳市场的规划，待电力行业交易成熟后，更多的行业将被纳入碳排放权交易市场。其中，钢铁行业将在“十四五”期间尽早纳入碳排放权交易市场。此外，石化、化工、建材、有色、造纸、电力、航空等重点排放行业也有望在“十四五”期间陆续纳入全国碳市场。据国金证券统计，待重点行业全部纳入碳市场后，覆盖的年碳排放总量预计在80亿吨左右，约占全国碳排放量的70%-80%。因此，看好全国碳交易市场正式上线后对碳经济在森林碳汇、沼气发电、节能等领域的推动作用。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6485621.d.html</link>
-            <guid>2236852</guid>
-            <pubDate>Mon, 12 Jul 2021 17:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一轮社保改革红利将释放 】今年以来，我国社保待遇上调红利密集落地。企业退休人员基本养老金迎来17年连涨，截至6月底，31省份养老金上调方案均已出炉。“十四五”时期多层次社会保障体系更加健全。基本养老保险参保率达到95％，失业保险、工伤保险参保人数分别达到2.3亿人、2.8亿人。补充养老保险基金规模超过4万亿元。城乡居民基本养老保险基金委托投资资金总额超过4000亿元。进一步推进提高各项社会保险统筹层次，同时，通过全面实施全民参保计划，社会保障覆盖范围不断扩大。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5089115.d.html</link>
-            <guid>2236846</guid>
-            <pubDate>Mon, 12 Jul 2021 17:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济事务专员Gentiloni：全球税收协议显然是当务之急，欧盟将与美国合作，使协议成为可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5089016.d.html</link>
-            <guid>2236842</guid>
-            <pubDate>Mon, 12 Jul 2021 17:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：白宫准备好迎接基础设施计划的大起大落了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5088916.d.html</link>
-            <guid>2236841</guid>
-            <pubDate>Mon, 12 Jul 2021 17:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音空客将竞争法航荷航集团史上最大订单】美港电讯APP 13日讯，法航荷航集团（Air France-KLM）已开始与波音(BA.N)和空客就可能成为该集团有史以来最大的飞机订单进行谈判。目前，该公司正寻求扩大其低成本航空业务规模，并更新其荷兰机队的一部分机型。一位发言人周一表示，这160架单通道飞机将用于法荷航集团旗下的廉航Transavia航空和荷兰皇家航空公司的欧洲业务。目前，这些品牌只在中短程航线上运营波音喷气式飞机。分析指出，这场竞争将使波音的737 Max与空客的A320neo系列窄体客机展开直接较量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6483619.d.html</link>
-            <guid>2236840</guid>
-            <pubDate>Mon, 12 Jul 2021 17:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥报告6月份新增登记就业岗位65.9万个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6483172.d.html</link>
-            <guid>2236839</guid>
-            <pubDate>Mon, 12 Jul 2021 17:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：扩大民众的投票权将是总统拜登的主要关注点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5087375.d.html</link>
-            <guid>2236837</guid>
-            <pubDate>Mon, 12 Jul 2021 17:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月13日00时48分在甘肃张掖市肃南县（北纬38.63度，东经99.76度）发生3.8级地震，震源深度10千米。]]></title>
-            <guid>2236836</guid>
-            <pubDate>Mon, 12 Jul 2021 17:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国佛罗里达州公寓楼倒塌事故死亡人数上升至94人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6482248.d.html</link>
-            <guid>2236833</guid>
-            <pubDate>Mon, 12 Jul 2021 17:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股太阳能板块涨幅居前，晶科能源(JKS.N)涨8%，阳光动力(SPI.O)涨7.2%，阿斯特太阳能(CSIQ.O)涨5.8%，Sunrun(RUN.N)涨3.5%。]]></title>
-            <guid>2236832</guid>
-            <pubDate>Mon, 12 Jul 2021 17:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗：将中兴通讯(00763.HK)H股评级从卖出上调至买进，目标价30.50港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6482074.d.html</link>
-            <guid>2236831</guid>
-            <pubDate>Mon, 12 Jul 2021 16:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：予特斯拉卖出评级及175美元的目标价】在特斯拉(TSLA.O)发布全自动驾驶FSD V.9.0 Beta版本后，花旗分析师Itay Michaeli对该股票持卖出评级，目标价175美元。Michaeli在一份研究报告中告诉投资者，从测试者发布的视频来看，新版本显然在流畅性和可视化方面有明显的改进，但脱离率 "似乎与以前没有什么不同"。该分析师表示，虽然FSD V.9.0刚发布不久，但它并不能支持特斯拉“很快就能达到超人水平的驾驶表现”的乐观看法。该分析师同时认为，这对LiDAR（激光雷达）相关股票和其他自动驾驶汽车平台都是利好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5085787.d.html</link>
-            <guid>2236829</guid>
-            <pubDate>Mon, 12 Jul 2021 16:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：07月13日00时48分在甘肃张掖市肃南县附近发生3.9级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqciyzk5085694.d.html</link>
-            <guid>2236828</guid>
-            <pubDate>Mon, 12 Jul 2021 16:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国碳市场上线在即 多条主线受机构关注】全国碳排放权交易市场即将正式上线。在利好消息推动下，近日碳中和多条投资主线获资本市场关注。7月7日，国务院常务会议指出，将在试点基础上于今年7月择时启动发电行业全国碳排放权交易市场上线交易。下一步，还将稳步扩大行业覆盖范围，以市场机制控制和减少温室气体排放。此前6月22日，全国碳排放权交易市场的交易细则已经正式出台。生态环境部也表示，目前全国碳排放权交易的筹备工作已经基本就绪，首批纳入全国碳交易体系的企业有2200多家，均为发电行业企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6481171.d.html</link>
-            <guid>2236826</guid>
-            <pubDate>Mon, 12 Jul 2021 16:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：不列颠仍然计划与爱尔兰努力争取举办2030年世界杯。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6481139.d.html</link>
-            <guid>2236825</guid>
-            <pubDate>Mon, 12 Jul 2021 16:49:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们的策略只有在人们保持谨慎的情况下才会奏效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6480464.d.html</link>
-            <guid>2236824</guid>
-            <pubDate>Mon, 12 Jul 2021 16:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利政府将边境关闭时间延长至7月25日。 智利政府将边境关闭时间延长至7月25日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6480247.d.html</link>
-            <guid>2236822</guid>
-            <pubDate>Mon, 12 Jul 2021 16:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【二季度信托新增规模环比下降16%】中国信登最新数据显示， 二季度行业新增信托产品8761笔，环比下降28.86%，涉及规模17497.96亿元，环比下降16%。二季度新增集合资金类信托产品涉及规模为6806.76亿元，占当季各类新增信托规模的比重由4月份的34.2%上升到6月份的46.2%。二季度新增投资类信托产品涉及规模为5705.52亿元，占当季各类新增信托规模的比重连续3个季度上升，由2020年三季度的23.28%提升至2021年二季度的32.61%，显示行业持续推动转型、提升专业投资能力方面的进步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-13/detail-ikqcfnca6480221.d.html</link>
-            <guid>2236821</guid>
-            <pubDate>Mon, 12 Jul 2021 16:39:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
