@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Jul 2021 17:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 18:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：坦率地说，Cybertruck总会有失败的可能，因为它与其他任何东西都不一样。 我不在乎。即使其他人不喜欢，我也非常喜欢它。 其他卡车看起来像是同一件东西的复制品，但Cybertruck 看起来像是由来自未来的外星人制造的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7108236.d.html</link>
+            <guid>2240840</guid>
+            <pubDate>Thu, 15 Jul 2021 18:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：拜登将致力于使预算法案通过国会的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7107134.d.html</link>
+            <guid>2240839</guid>
+            <pubDate>Thu, 15 Jul 2021 17:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国《金融时报》：德意志银行可能向西班牙的50多家公司不当销售了外汇衍生品  。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5709773.d.html</link>
+            <guid>2240838</guid>
+            <pubDate>Thu, 15 Jul 2021 17:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：拜登政府的专家认为，预计“大部分物价上涨”将是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7105405.d.html</link>
+            <guid>2240837</guid>
+            <pubDate>Thu, 15 Jul 2021 17:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党的法案将填补内幕交易的漏洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5708560.d.html</link>
+            <guid>2240835</guid>
+            <pubDate>Thu, 15 Jul 2021 17:32:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国10年期国债收益率跌至日低至1.304%。]]></title>
             <guid>2240829</guid>
@@ -132,24 +162,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5696411.d.html</link>
             <guid>2240744</guid>
             <pubDate>Thu, 15 Jul 2021 15:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国债跌幅扩大，10年期国债收益率涨5个基点至0.68％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7092675.d.html</link>
-            <guid>2240740</guid>
-            <pubDate>Thu, 15 Jul 2021 15:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【摩根士丹利：特斯拉或将涉足飞行汽车市场】摩根士丹利分析师Adam Jonas在一份报告中指出，特斯拉最终有可能向“飞行汽车”市场提供产品和服务，而且这是“何时”而非“是否”的问题。Jonas提出：“潜在的技能可转移性和网络相邻性太强了，不容忽视”。然而，他也指出，伊隆·马斯克并未真正地讨论过这个想法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5695039.d.html</link>
-            <guid>2240733</guid>
-            <pubDate>Thu, 15 Jul 2021 14:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广药集团与中信银行广州分行、中信证券签署战略合作框架协议】7月14日，广药集团与中信银行广州分行、中信证券在广州签署战略合作框架协议。据悉，此前广药集团已与中信银行开展业务合作。此次签约，广药集团将通过与金融、证券机构战略合作，实现更加高效的资产管理和资本运作，降低资本成本、提高资金使用效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5694800.d.html</link>
-            <guid>2240729</guid>
-            <pubDate>Thu, 15 Jul 2021 14:51:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
