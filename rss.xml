@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://zhangmingshuo.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Jul 2021 15:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 16:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://zhangmingshuo.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：很多事情都让我回想起美国上世纪70年代出现的高通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099589.d.html</link>
+            <guid>2240807</guid>
+            <pubDate>Thu, 15 Jul 2021 16:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：股票仍然比债券便宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099565.d.html</link>
+            <guid>2240805</guid>
+            <pubDate>Thu, 15 Jul 2021 16:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：美国股票的估值非常高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099139.d.html</link>
+            <guid>2240804</guid>
+            <pubDate>Thu, 15 Jul 2021 16:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团董事长雷军：Canalys刚刚发布了第二季度全球智能手机市占率排名，小米手机销量超越了苹果，首次晋升全球第二。数据显示，小米全球智能手机市占率达到 17%，同比增长83%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5702023.d.html</link>
+            <guid>2240803</guid>
+            <pubDate>Thu, 15 Jul 2021 16:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大指数全部转跌，纳指跌0.8%，标普500指数跌0.39%，道指跌0.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5700944.d.html</link>
+            <guid>2240799</guid>
+            <pubDate>Thu, 15 Jul 2021 16:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员罗姆尼：美国国税局的执法可能会从基础设施计划中移除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698824.d.html</link>
+            <guid>2240786</guid>
+            <pubDate>Thu, 15 Jul 2021 15:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：辉瑞(PFE.N)将支付3.45亿美元来解决肾上腺素笔EpiPen价格欺诈案件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698280.d.html</link>
+            <guid>2240779</guid>
+            <pubDate>Thu, 15 Jul 2021 15:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲STOXX 600指数初步收跌1.04%，报455.78点。 德国DAX 30指数初步收跌1.15%，报15607.66点。 法国股指初步收跌1.21%，英国股指初步收跌1.11%，意大利股指初步收跌1.35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698062.d.html</link>
+            <guid>2240775</guid>
+            <pubDate>Thu, 15 Jul 2021 15:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概造车新势力持续走高。理想汽车(LI.O)涨超5%，小鹏汽车(XPEV.N)涨3.5%，蔚来汽车(NIO.N)涨3.2%。]]></title>
+            <guid>2240766</guid>
+            <pubDate>Thu, 15 Jul 2021 15:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【服装厂出口订单暴增 有服装外贸企业订单排到11月】今年上半年出口服装总额达715亿美元，同比增长超4成，比2019年还增加了9%。在江苏一家服装公司了解到，公司去年上半年生意严重下滑，但从8、9月份开始回暖，到今年上半年，生意越来越火爆，订单同比增长了4成，目前的订单已经排到了11月，卖得最好的是家居和户外服装。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7093925.d.html</link>
@@ -56,59 +109,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5693035.d.html</link>
             <guid>2240711</guid>
             <pubDate>Thu, 15 Jul 2021 14:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锂电池三元前驱体厂家扩产 推动硫酸镍持续上行】本周以来，金川、吉镍等企业二度上调硫酸镍出厂价，达到37500元/吨，为近5个月新高。研究机构表示，虽然用于生产硫酸镍的进口镍湿法冶炼中间品陆续到港，但下游三元前驱体厂家均处于扩产中，使硫酸镍处于结构性短缺状态。预计下一波集中采销将推动硫酸镍价格继续上行。中国中冶巴新瑞木红土镍钴矿项目已探明的可控镍储量超100万吨；中伟股份是三元前躯体龙头，定增扩产布局上游资源。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7088515.d.html</link>
-            <guid>2240697</guid>
-            <pubDate>Thu, 15 Jul 2021 14:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：美国副国务卿谢尔曼将于7月18日访问日本、韩国和蒙古国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5691405.d.html</link>
-            <guid>2240694</guid>
-            <pubDate>Thu, 15 Jul 2021 14:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉官宣 光储充一体化超级充电站即将发布】特斯拉中国7月15日介绍，特斯拉光储充一体化超级充电站将于本周末发布。特斯拉光储充一体化超级充电站可以通过能量存储和优化配置实现本地能源生产与用能的基本平衡，将阳光转化为电能，通过Powerwall储能设备储存能量，使用储存能量给车辆充电，提高了能源使用效率。在负载和光储配置平衡时，可实现能源自给自足。A股相关概念股主要有海达股份、当升科技、秀强股份等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5691111.d.html</link>
-            <guid>2240688</guid>
-            <pubDate>Thu, 15 Jul 2021 14:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上汽集团：国有股份无偿划转完成】上汽集团公告，近日，公司收到上海汽车工业(集团)总公司出示的由中登公司上海分公司出具的《过户登记确认书》，确认上海汽车工业(集团)总公司将持有的公司4.18亿股无偿划转至上海国际集团有限公司的过户手续已于2021年7月14日办理完毕。此次股份无偿划转完成后，上海国际集团有限公司持有的公司股份，占公司总股本的3.58%。]]></title>
-            <guid>2240686</guid>
-            <pubDate>Thu, 15 Jul 2021 14:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Beyond Meat(BYND.O)涨4.2%，此前拓展电商渠道入驻京东。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5690649.d.html</link>
-            <guid>2240685</guid>
-            <pubDate>Thu, 15 Jul 2021 14:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯与美国就气候挑战发布联合声明，两国将围绕碳排放和甲烷等问题合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7087081.d.html</link>
-            <guid>2240683</guid>
-            <pubDate>Thu, 15 Jul 2021 14:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股中概电商股走强，京东涨近3%，阿里巴巴、拼多多均涨超2%，唯品会涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7086042.d.html</link>
-            <guid>2240671</guid>
-            <pubDate>Thu, 15 Jul 2021 13:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上汽集团：国有股份无偿划转完成】上汽集团公告，近日，公司收到上海汽车工业(集团)总公司出示的由中登公司上海分公司出具的《过户登记确认书》，确认上海汽车工业(集团)总公司将持有的公司4.18亿股无偿划转至上海国际集团有限公司的过户手续已于2021年7月14日办理完毕。此次股份无偿划转完成后，上海国际集团有限公司持有的公司股份，占公司总股本的3.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7085853.d.html</link>
-            <guid>2240668</guid>
-            <pubDate>Thu, 15 Jul 2021 13:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股部分中概股走高，老虎证券涨7.4%，富途控股涨5.7%，高途、哔哩哔哩涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7085375.d.html</link>
-            <guid>2240662</guid>
-            <pubDate>Thu, 15 Jul 2021 13:52:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
